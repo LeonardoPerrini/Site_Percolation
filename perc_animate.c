@@ -1,4 +1,4 @@
-/*Leonardo Perrini 2065029
+/*Leonardo Perrini 
 Questo programma genera un Lattice quadrato di lato L occupandolo con nodi funzionanti o guasti con probabilità
 p. Realizza poi una clusterizzazione mediante una variante basata sull'algoritmo di Hoshen-Kopelman individuando tutti
 i cluster connessi (solo dei nodi guasti), realizza un'animazione della clusterizzazione in funzione di p*/
